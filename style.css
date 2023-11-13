@@ -1,0 +1,17 @@
+.animal{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.cat{
+    background-color: #ffd700;
+}
+
+.dog{
+    background-color: #6495ed;
+}
+
+.snake{
+    background-color: #90ee90;
+}
